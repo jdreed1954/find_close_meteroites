@@ -1,4 +1,4 @@
-# find-close-,eteorites
+# find-close-meteorites
 A demonstration project that uses Python and NASA data to find meteor landing sites.
 
 ## Running
